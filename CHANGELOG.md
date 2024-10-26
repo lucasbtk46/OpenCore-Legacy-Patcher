@@ -1,6 +1,6 @@
 # OpenCore Legacy Patcher changelog
 
-## 2.1.0
+## 2.0.3
 - Disable FeatureUnlock by default
   - Intended to maintain long term stability
   - If features unlocked by FeatureUnlock desired, can be enabled in settings
