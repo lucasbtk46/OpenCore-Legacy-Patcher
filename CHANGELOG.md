@@ -1,6 +1,6 @@
 # OpenCore Legacy Patcher changelog
 
-## 2.2.0
+## 2.1.3
 - Resolved non-metal accessibility zoom on macOS Sonoma/Sequoia
 - Resolved non-metal photos app on macOS Sequoia
 - Resolved non-metal Screen Sharing on macOS Sequoia
